@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.gtouchet.apistatistics.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.gtouchet.apistatistics.MyBundle
 
 class MyApplicationService {
 

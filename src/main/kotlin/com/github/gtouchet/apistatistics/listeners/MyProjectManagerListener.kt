@@ -1,9 +1,9 @@
-package org.jetbrains.plugins.template.listeners
+package com.github.gtouchet.apistatistics.listeners
 
+import com.github.gtouchet.apistatistics.services.MyProjectService
 import com.intellij.openapi.components.service
 import com.intellij.openapi.project.Project
 import com.intellij.openapi.project.ProjectManagerListener
-import org.jetbrains.plugins.template.services.MyProjectService
 
 internal class MyProjectManagerListener : ProjectManagerListener {
 
